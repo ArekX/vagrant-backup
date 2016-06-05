@@ -1,0 +1,8 @@
+.vs
+*.exe
+*.exe.config
+*.exe.manifest
+*.cache
+VagrantBackup/obj
+VagrantBackup/bin
+packages
