@@ -7,3 +7,7 @@ This program allows you to backup your vagrant project and its important keys an
 # Supported provisioners
 
 * PuPHPet
+
+# License
+
+* GNU GPL 3.0 - See LICENSE.md
